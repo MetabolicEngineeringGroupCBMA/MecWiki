@@ -11,7 +11,13 @@ It is quite useful to back up the page files using dropbox or a similar service.
 in the same directory as the page files. This file changes often and is not needed to recreate the wiki in case of a crash.
 
 
-The MecWiki has the location of the page files in the "data" sub directory, while the MecWiki.wiki file and the wikiovw.sli should be present
-in the folder immediately above the dropbox folder.
+The MecWiki has the location of the page files in the "MecWikiData" sub directory of the "dropbox" folder,
+ while the MecWiki.wiki file and the wikiovw.sli should be present in the folder immediately above the "dropbox" folder.
+This means that only the page files will be backed up. 
+
+The "files" folder contain the file storage of the wiki. It contains an image of some yeast cells which is linked from the wiki 
+home page "MecWiki.md"
+
+This file "README.md" can be deleted after downloading the wiki.
 
 

@@ -1,6 +1,6 @@
 [wiki_db]
-data_dir = data
-db_filename = ../wikiovw.sli
+data_dir = dropbox/MecWikiData
+db_filename = ../../wikiovw.sli
 
 [main]
 wiki_wikilanguage = wikidpad_mec_2_0
@@ -15,13 +15,13 @@ trashcan_storagelocation = 0
 first_wiki_word = 
 wiki_onopen_rebuild = 0
 wiki_onopen_tabssubctrl = 
-tree_expandednodes_descriptorpathes_main = wikipage/MecWiki
+tree_expandednodes_descriptorpathes_main = wikipage/MecWiki;wikipage/MecWiki,wikipage/mecplugins_settings
 tree_expandednodes_descriptorpathes_views = 
 tree_force_scratchpad_visibility = True
 further_wiki_words = 
 wiki_lasttabssubctrls = textedit
 wiki_lastactivetabno = 0
-wiki_mainarea_auiperspective = 
+wiki_mainarea_auiperspective = v1/panel5dca85860000000100000002=*DocPagePresenter=MecWiki=0=textedit\x7cwikipage/MecWiki@layout2|name=dummy;caption=;state=67372030;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=959;besth=455;minw=959;minh=455;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;notebookid=-1;transparent=255|name=panel5dca85860000000100000002;caption=;state=67372028;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;notebookid=-1;transparent=255|dock_size(5,0,0)=202|
 wiki_database_type = original_sqlite
 wiki_linkresolve_caseinsensitive = False
 db_pagefile_suffix = .md
@@ -43,13 +43,13 @@ filestorage_identity_moddateisenough = False
 filesignature_timecoarsening = 0
 editor_text_mode = False
 wikipagetitleprefix = ##
-wikipagetitle_headinglevel = 2
+wikipagetitle_headinglevel = 0
 wikipagetitle_creationmode = 1
 wikipagetitle_fromlinktitle = False
 wiki_icon = 
 hotkey_showhide_bywiki = 
 footnotes_as_wikiwords = False
 wiki_name = MecWiki
-last_wiki_word = 2019-12-31
+last_wiki_word = MecWiki
 tree_last_root_wiki_word = MecWiki
 
