@@ -1,0 +1,55 @@
+[wiki_db]
+data_dir = data
+db_filename = ../wikiovw.sli
+
+[main]
+wiki_wikilanguage = wikidpad_mec_2_0
+tree_expandednodes_rememberduration = 2
+indexsearch_enabled = False
+indexsearch_formatno = 1
+tabs_maxcharacters = 0
+template_pagenamesre = ^template/
+trashcan_maxnoofbags = 200
+trashcan_askondelete = True
+trashcan_storagelocation = 0
+first_wiki_word = 
+wiki_onopen_rebuild = 0
+wiki_onopen_tabssubctrl = 
+tree_expandednodes_descriptorpathes_main = wikipage/MecWiki
+tree_expandednodes_descriptorpathes_views = 
+tree_force_scratchpad_visibility = True
+further_wiki_words = 
+wiki_lasttabssubctrls = textedit
+wiki_lastactivetabno = 0
+wiki_mainarea_auiperspective = 
+wiki_database_type = original_sqlite
+wiki_linkresolve_caseinsensitive = False
+db_pagefile_suffix = .md
+export_default_dir = 
+wiki_readonly = False
+log_window_autoshow = Gray
+wikipagefiles_asciionly = False
+wikipagefiles_maxnamelength = 120
+wikipagefiles_gracefuloutsideaddandremove = True
+wikipagefiles_writefilemode = 0
+headingsasaliases_depth = 0
+versioning_storagelocation = 0
+versioning_completesteps = 10
+tabhistory_maxentries = 25
+wikiwidehistory_maxentries = 100
+filestorage_identity_moddatemustmatch = False
+filestorage_identity_filenamemustmatch = False
+filestorage_identity_moddateisenough = False
+filesignature_timecoarsening = 0
+editor_text_mode = False
+wikipagetitleprefix = ##
+wikipagetitle_headinglevel = 2
+wikipagetitle_creationmode = 1
+wikipagetitle_fromlinktitle = False
+wiki_icon = 
+hotkey_showhide_bywiki = 
+footnotes_as_wikiwords = False
+wiki_name = MecWiki
+last_wiki_word = 2019-12-31
+tree_last_root_wiki_word = MecWiki
+
